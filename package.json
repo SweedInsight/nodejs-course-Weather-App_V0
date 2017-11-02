@@ -1,0 +1,15 @@
+{
+  "name": "asyncappgeo",
+  "version": "1.0.0",
+  "description": "Test Async App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DavidRa",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^4.8.1"
+  }
+}
